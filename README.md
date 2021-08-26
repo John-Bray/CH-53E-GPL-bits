@@ -7,22 +7,16 @@ The files in this distribution are derivatives by John Bray of GPL files in
 
 Authors (GPL): Pierre Duval, Josh Babcok, StuartC, Richard Harris
 
-### How to make it work in XP
+### Conversion to X-Plane XP
 
-Start with this very old XP version for the flight-model
+This was inspired by the work here
 
 [https://forums.x-plane.org/index.php?/forums/topic/22780-about-the-ch-53e-super-stallion/]()
 
-which was done by petersphilo in 2006-07, after which he appears to have given up on it. If you open it in an XP9 demo Planemaker and re-save it it's nearly good to go for XP10. **BUT** you will also need to open each .afl in the airfoils folder and re-save them with the **XP9** Airfoil-Maker app.
+which was done by petersphilo in 2006-07, after which he appears to have given up on it. Because he was not available at the time, I have created, edited and saved my own version using XP 11.41 of the .acf file and used my own airfoils. It should work in all later versions of XP11.
 
-Repeat this process to get an XP10 version or even one for XP11.
+The development thread for this is at:
 
-Add the enclosed .obj files, and corresponding textures.
-
-1. The objects will need to be added using PlaneMaker.
-1. They will need to be added in the correct sequence.
-1. With the correct settings for things like lighting. 
-
-This is not for the faint-hearted / inexperienced user!
+[https://forums.x-plane.org/index.php?/forums/topic/251059-ch-53e-super-stallion/](https://forums.x-plane.org/index.php?/forums/topic/251059-ch-53e-super-stallion/)
 
 **NOTE:** this is still a work in progress!
