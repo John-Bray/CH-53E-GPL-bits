@@ -268,7 +268,7 @@ P _gear/5/_lonE 60.0
 P _gear/5/_lonN 60.0
 P _gear/5/_lonR 60.0
 P _gear/5/_scon 16702.140625000
-P _gear/5/_stat_def 0.007204563
+P _gear/5/_stat_def 0.007204562
 P _gear/5/_steerdeg_hispeed 0.0
 P _gear/5/_steerdeg_lospeed 0.0
 P _gear/5/_strut_comp 0.0
@@ -460,6 +460,28 @@ P _obja/10/_v10_att_y_acf_prt_ref 0.0
 P _obja/10/_v10_att_z_acf_prt_ref 0.0
 P _obja/10/_v10_is_internal 0
 P _obja/10/_v10_steers_with_gear 0
+P _obja/11/_obj_flags 0
+P _obja/11/_v10_att_file_stl pilot1.obj
+P _obja/11/_v10_att_part -1
+P _obja/11/_v10_att_phi_ref 0.0
+P _obja/11/_v10_att_psi_ref 0.0
+P _obja/11/_v10_att_the_ref 0.0
+P _obja/11/_v10_att_x_acf_prt_ref 1.968503952
+P _obja/11/_v10_att_y_acf_prt_ref 3.346456528
+P _obja/11/_v10_att_z_acf_prt_ref 4.166666508
+P _obja/11/_v10_is_internal 268496912
+P _obja/11/_v10_steers_with_gear 0
+P _obja/12/_obj_flags 0
+P _obja/12/_v10_att_file_stl pilot2.obj
+P _obja/12/_v10_att_part -1
+P _obja/12/_v10_att_phi_ref 0.0
+P _obja/12/_v10_att_psi_ref 0.0
+P _obja/12/_v10_att_the_ref 0.0
+P _obja/12/_v10_att_x_acf_prt_ref -1.968503952
+P _obja/12/_v10_att_y_acf_prt_ref 3.346456528
+P _obja/12/_v10_att_z_acf_prt_ref 4.166666508
+P _obja/12/_v10_is_internal 268496912
+P _obja/12/_v10_steers_with_gear 0
 P _obja/2/_obj_flags 24
 P _obja/2/_v10_att_file_stl CH53_chassis.obj
 P _obja/2/_v10_att_part -1
@@ -548,7 +570,7 @@ P _obja/9/_v10_att_y_acf_prt_ref 0.0
 P _obja/9/_v10_att_z_acf_prt_ref 0.0
 P _obja/9/_v10_is_internal 0
 P _obja/9/_v10_steers_with_gear 0
-P _obja/count 11
+P _obja/count 13
 P _panel_inst_3d 0
 P _part/0/_bot_s1 0.933333337
 P _part/0/_bot_s2 0.945185184
@@ -30667,8 +30689,8 @@ P acf/_slat_ret2_time 2.0
 P acf/_slat_with_Vind 0.0
 P acf/_slat_with_stall_EQ 0
 P acf/_slung_len 70.013122559
-P acf/_snd_N1 100.0
-P acf/_snd_kias 264.0
+P acf/_snd_N1 80.0
+P acf/_snd_kias 187.0
 P acf/_snd_rpm_eng 320.0
 P acf/_snd_rpm_prp 210.0
 P acf/_solar_cover_part 0.0
@@ -30917,7 +30939,7 @@ P acf/_vect_power_for 1.0
 P acf/_vect_rate 15.0
 P acf/_vectarmY 0.0
 P acf/_vectarmZ 0.0
-P acf/_version BETA 1.0
+P acf/_version BETA 1.1 piots + sounds
 P acf/_vvi_but_adjusts_pitch 0
 P acf/_warn_airliner 0
 P acf/_warn_alt_app_100 0
