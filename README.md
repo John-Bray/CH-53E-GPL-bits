@@ -15,8 +15,7 @@ This was inspired by the work here
 
 which was done by petersphilo in 2006-07, after which he appears to have given up on it. Because he was not available at the time, I have created, edited and saved my own version using XP 11.41 of the .acf file and used my own airfoils. It should work in all later versions of XP11.
 
-The development thread for this is at:
+The X-Plane development thread for this is at:
 
 [https://forums.x-plane.org/index.php?/forums/topic/251059-ch-53e-super-stallion/](https://forums.x-plane.org/index.php?/forums/topic/251059-ch-53e-super-stallion/)
 
-**NOTE:** this is still a work in progress!

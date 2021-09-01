@@ -1,0 +1,8 @@
+A
+800
+OBJ
+
+TEXTURE TextureMain.png
+TEXTURE_NORMAL TextureMain_PBR.png
+NORMAL_METALNESS
+GLOBAL_specular 1.0

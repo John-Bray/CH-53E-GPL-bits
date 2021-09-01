@@ -164,7 +164,7 @@ P _gear/0/_lonE 10.0
 P _gear/0/_lonN 10.0
 P _gear/0/_lonR -120.0
 P _gear/0/_scon 33404.281250000
-P _gear/0/_stat_def 0.631864786
+P _gear/0/_stat_def 0.631864727
 P _gear/0/_steerdeg_hispeed 10.0
 P _gear/0/_steerdeg_lospeed 60.0
 P _gear/0/_strut_comp 0.0
@@ -198,7 +198,7 @@ P _gear/1/_lonE -10.0
 P _gear/1/_lonN -10.0
 P _gear/1/_lonR 90.0
 P _gear/1/_scon 33404.281250000
-P _gear/1/_stat_def 0.782451153
+P _gear/1/_stat_def 0.782451272
 P _gear/1/_steerdeg_hispeed 0.0
 P _gear/1/_steerdeg_lospeed 0.0
 P _gear/1/_strut_comp -1.0
@@ -232,7 +232,7 @@ P _gear/2/_lonE -10.0
 P _gear/2/_lonN -10.0
 P _gear/2/_lonR 90.0
 P _gear/2/_scon 33404.281250000
-P _gear/2/_stat_def 0.782451153
+P _gear/2/_stat_def 0.782451272
 P _gear/2/_steerdeg_hispeed 0.0
 P _gear/2/_steerdeg_lospeed 0.0
 P _gear/2/_strut_comp -1.0
@@ -268,7 +268,7 @@ P _gear/5/_lonE 60.0
 P _gear/5/_lonN 60.0
 P _gear/5/_lonR 60.0
 P _gear/5/_scon 16702.140625000
-P _gear/5/_stat_def 0.007204562
+P _gear/5/_stat_def 0.007204563
 P _gear/5/_steerdeg_hispeed 0.0
 P _gear/5/_steerdeg_lospeed 0.0
 P _gear/5/_strut_comp 0.0
@@ -18201,7 +18201,7 @@ P _part/86/_part_specs_invis 1
 P _part/86/_part_tex 0
 P _part/86/_part_the 0.0
 P _part/86/_part_x -6.496062756
-P _part/86/_part_y -1.976356745
+P _part/86/_part_y -1.976356626
 P _part/86/_part_z 29.475685120
 P _part/86/_patt_con 0
 P _part/86/_patt_prt 0
@@ -19671,7 +19671,7 @@ P _part/87/_part_specs_invis 1
 P _part/87/_part_tex 0
 P _part/87/_part_the 0.0
 P _part/87/_part_x 6.496062756
-P _part/87/_part_y -1.976356745
+P _part/87/_part_y -1.976356626
 P _part/87/_part_z 29.475685120
 P _part/87/_patt_con 0
 P _part/87/_patt_prt 0
@@ -30390,7 +30390,7 @@ P acf/_nom_bat_volt 24.0
 P acf/_nom_fuelP 30.0
 P acf/_nom_gen_volt 24.500000000
 P acf/_nom_oilP 115.0
-P acf/_notes XP11.41 version 2021-Aug-30
+P acf/_notes XP11.41 version 2021-Sep-01
 P acf/_num_batteries 1
 P acf/_num_braking_wheels 0.0
 P acf/_num_buses 1
@@ -30939,7 +30939,7 @@ P acf/_vect_power_for 1.0
 P acf/_vect_rate 15.0
 P acf/_vectarmY 0.0
 P acf/_vectarmZ 0.0
-P acf/_version BETA 1.2
+P acf/_version 1.0
 P acf/_vvi_but_adjusts_pitch 0
 P acf/_warn_airliner 0
 P acf/_warn_alt_app_100 0
@@ -31230,21 +31230,21 @@ ott_hdg_sel ott_hdg_sel
   BUS_SRC 1
 
 ins_fuel_digital_GA ins_fuel_digital_GA
-  POS 1144.000000 31.000000
+  POS 1139.000000 27.714285
   DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
   BUS_SRC 1
 
 ins_fuel_digital_GA ins_fuel_digital_GA
-  POS 1075.000000 31.000000
+  POS 1072.857178 27.285715
   DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
   BUS_SRC 1
 
 ins_fuel_digital_GA ins_fuel_digital_GA
-  POS 1009.000000 31.000000
+  POS 1004.714233 27.000000
   DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
@@ -31292,15 +31292,6 @@ gen_needle gen_needle.png
   KEY_FRAME 1.000000 290.000000
   IS_DRAGGABLE 0
   OFFSET 0.000000
-
-eng_rnd_ENG engine_RPM_engine.p
-  POS 991.000000 233.000000
-  DATAREF 
-  SIZE 0.800000
-  LIGHT_MODE MECHANICAL
-  LIGHT_RHEOSTAT 0
-  KEY_FRAME 0.000000 0.000000 1.000000
-  KEY_FRAME 1.000000 1.000000
 
 vvi5k_HM VVI_5000_HM.png
   POS 1949.000000 41.142857
@@ -31430,26 +31421,10 @@ but_spot_light but_spot_light.png
   KEY_FRAME 0.000000 0.000000 1.000000
   KEY_FRAME 1.000000 1.000000
 
-han_thrott_lin han_thro_linear.png
-  POS 1034.500000 233.000000
+eng_rnd_ENG engine_RPM_engine.p
+  POS 991.000000 233.000000
   DATAREF 
   SIZE 0.800000
-  LIGHT_MODE MECHANICAL
-  LIGHT_RHEOSTAT 0
-  KEY_FRAME 0.000000 0.000000 1.000000
-  KEY_FRAME 1.000000 1.000000
-
-but_govnr but_govnr.png
-  POS 1024.000000 87.000000
-  DATAREF 
-  LIGHT_MODE MECHANICAL
-  LIGHT_RHEOSTAT 0
-  KEY_FRAME 0.000000 0.000000 1.000000
-  KEY_FRAME 1.000000 1.000000
-
-but_off_run_start but_off_run_start.p
-  POS 983.142822 90.000008
-  DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
   KEY_FRAME 0.000000 0.000000 1.000000
@@ -31474,7 +31449,7 @@ eng_rnd_ENG engine_RPM_engine.p
   KEY_FRAME 1.000000 1.000000
 
 but_off_run_start but_off_run_start.p
-  POS 1074.000000 90.000000
+  POS 1150.142822 83.000000
   DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
@@ -31482,7 +31457,15 @@ but_off_run_start but_off_run_start.p
   KEY_FRAME 1.000000 1.000000
 
 but_off_run_start but_off_run_start.p
-  POS 1165.428589 90.571426
+  POS 964.000000 84.000000
+  DATAREF 
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  KEY_FRAME 0.000000 0.000000 1.000000
+  KEY_FRAME 1.000000 1.000000
+
+but_off_run_start but_off_run_start.p
+  POS 1055.428589 84.571426
   DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
@@ -31490,7 +31473,7 @@ but_off_run_start but_off_run_start.p
   KEY_FRAME 1.000000 1.000000
 
 but_govnr but_govnr.png
-  POS 1121.571411 87.000000
+  POS 1191.000000 80.000000
   DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
@@ -31498,8 +31481,25 @@ but_govnr but_govnr.png
   KEY_FRAME 1.000000 1.000000
 
 but_govnr but_govnr.png
-  POS 1212.142822 87.000000
+  POS 1011.571411 81.000000
   DATAREF 
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  KEY_FRAME 0.000000 0.000000 1.000000
+  KEY_FRAME 1.000000 1.000000
+
+but_govnr but_govnr.png
+  POS 1102.142822 81.000000
+  DATAREF 
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  KEY_FRAME 0.000000 0.000000 1.000000
+  KEY_FRAME 1.000000 1.000000
+
+han_thrott_lin han_thro_linear.png
+  POS 1034.500000 233.000000
+  DATAREF 
+  SIZE 0.800000
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
   KEY_FRAME 0.000000 0.000000 1.000000
